@@ -1934,6 +1934,8 @@
 
 - [@Eliaskdev](https://github.com/eliask-dev)
 
+- [@Eliasmik](https://github.com/eliasmik)
+
 - [@Eliasroodrigues](https://github.com/eliasroodrigues)
 
 - [@Elicoder](https://github.com/EliCoder)
